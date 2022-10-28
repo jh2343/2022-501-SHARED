@@ -1,2 +1,2 @@
 # 2022-501-SHARED
-Place to store ANLY-501 codes
+This is a place to store ANLY-501 codes
