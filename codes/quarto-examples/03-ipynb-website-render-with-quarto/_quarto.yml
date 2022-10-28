@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: Website example
+  author: James Hickman
+  logo: ./images/logo.png
+  chapters:
+    - index.ipynb
+    - part: Curriculum
+      chapters:
+        - ./page-1.ipynb
+    - part: Support
+      chapters:
+        - ./page-2.ipynb
+    - part: References
+      chapters:
+        - ./references.ipynb
+format:
+  html:
+    theme: journal
